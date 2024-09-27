@@ -2,7 +2,7 @@
 
 This repository is the implementation of COSTA.
 
-COSTA is short for '**Co**ntrastive **S**patial and **T**emporal Debi**a**sing framework for next POI recommendation'. It is a novel framework, equipped with three modules (i.e., Long-short Term Preference Encoder, User-side Spatial-temporal Signal Encoding, Location-side Spatial-temporal Signal Encoding and Contrast Debias Module), which is designed to alleviate the spatial and temporal
+COSTA is short for '**Co**ntrastive **S**patial and **T**emporal Debi**a**sing framework for next POI recommendation'. It is a novel framework, equipped with four modules (i.e., Long-short Term Preference Encoder, User-side Spatial-temporal Signal Encoding, Location-side Spatial-temporal Signal Encoding and Contrast Debias Module), which is designed to alleviate the spatial and temporal
 biases without compromising recommendation accuracy.
 
 
