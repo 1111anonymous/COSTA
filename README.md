@@ -9,9 +9,9 @@ biases without compromising recommendation accuracy.
 ### File Descriptions
 
 - `raw_data/`
-  - `NYC.csv`: check-ins information of New York;
+  - `NYC.rar`: check-ins information of New York;
   - `PHO.csv`: check-ins information of Phoenix;
-  - `SIN.csv`: : check-ins information of Singapore;
+  - `SIN.rar`: : check-ins information of Singapore;
 - `main.py`: main file;
 - `model.py`: COSTA model file;
 - `settings.py`: parameter settings file;
